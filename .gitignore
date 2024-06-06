@@ -1,0 +1,16 @@
+# course config files
+*.yaml
+
+# gradle
+.gradle/
+build
+
+
+# idea config
+.idea
+
+# old stages
+/Learning Progress Tracker (Python)/*
+!/Learning Progress Tracker (Python)/task/
+/Learning Progress Tracker (Python)/task/*
+!/Learning Progress Tracker (Python)/task/task.py
